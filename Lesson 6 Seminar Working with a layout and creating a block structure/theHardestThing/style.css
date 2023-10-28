@@ -3,6 +3,21 @@
     padding: 0;
 }
 
+
+
+
+
+
+.page__centered {
+    padding-left: calc(50% - 580px);
+    padding-right: calc(50% - 580px);
+}
+
+
+
+
+
+
 .header {
     padding-top: 40px;
     padding-bottom: 40px;
@@ -13,12 +28,20 @@
     margin-bottom: 162px;
 }
 
+.top__content {
+    display: flex;
+    justify-content: flex-start;
+}
+
 .brands {
     padding-top: 96px;
     padding-bottom: 96px;
 }
 
 .brand__line {}
+
+
+
 
 
 
